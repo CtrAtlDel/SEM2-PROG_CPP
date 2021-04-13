@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Ivan\source\repos\lab2\lab2\ArraySequence.hpp(158): error C3861: i: идентификатор не найден
+  C:\Users\Ivan\source\repos\lab2\lab2\ArraySequence.hpp(208): note: выполняется компиляция ссылки на экземпляр шаблон класс "ArraySequence<T>"
+C:\Users\Ivan\source\repos\lab2\lab2\ListSequence.hpp(104): error C2760: синтаксическая ошибка: ожидался токен "выражение", а не ")"
+  C:\Users\Ivan\source\repos\lab2\lab2\ListSequence.hpp(175): note: выполняется компиляция ссылки на экземпляр шаблон класс "ListSequence<T>"

@@ -1,0 +1,48 @@
+﻿  Source.cpp
+C:\Users\Ivan\source\repos\lab2\lab2\BinaryTreeNode.hpp(37): warning C4101: array: неиспользованная локальная переменная
+  C:\Users\Ivan\source\repos\lab2\lab2\BinaryTreeNode.hpp(35): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  C:\Users\Ivan\source\repos\lab2\lab2\BinaryTreeNode.hpp(556): note: выполняется компиляция ссылки на экземпляр шаблон функции "Sequence<BinaryTree<int>::TreeNode<T> *> *BinaryTree<T>::Thread(BinaryTree<T>::TreeNode<T> *,std::string)"
+          with
+          [
+              T=int
+          ]
+  C:\Users\Ivan\source\repos\lab2\lab2\Source.cpp(34): note: выполняется компиляция ссылки на экземпляр шаблон класс "BinaryTree<int>"
+C:\Users\Ivan\source\repos\lab2\lab2\ListSequence.hpp(161): warning C4018: <: несоответствие типов со знаком и без знака
+  C:\Users\Ivan\source\repos\lab2\lab2\ListSequence.hpp(156): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  C:\Users\Ivan\source\repos\lab2\lab2\BinaryTreeNode.hpp(46): note: выполняется компиляция ссылки на экземпляр шаблон класс "ListSequence<BinaryTree<int>::TreeNode<T> *>"
+          with
+          [
+              T=int
+          ]
+  C:\Users\Ivan\source\repos\lab2\lab2\BinaryTreeNode.hpp(35): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  C:\Users\Ivan\source\repos\lab2\lab2\BinaryTreeNode.hpp(556): note: выполняется компиляция ссылки на экземпляр шаблон функции "Sequence<BinaryTree<int>::TreeNode<T> *> *BinaryTree<T>::Thread(BinaryTree<T>::TreeNode<T> *,std::string)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Ivan\source\repos\lab2\lab2\ListSequence.hpp(148): warning C4018: <: несоответствие типов со знаком и без знака
+  C:\Users\Ivan\source\repos\lab2\lab2\ListSequence.hpp(145): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+C:\Users\Ivan\source\repos\lab2\lab2\ListSequence.hpp(129): warning C4018: <: несоответствие типов со знаком и без знака
+  C:\Users\Ivan\source\repos\lab2\lab2\ListSequence.hpp(122): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+C:\Users\Ivan\source\repos\lab2\lab2\ListSequence.hpp(133): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ivan\source\repos\lab2\lab2\ListSequence.hpp(137): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ivan\source\repos\lab2\lab2\ListSequence.hpp(99): warning C4018: <: несоответствие типов со знаком и без знака
+  C:\Users\Ivan\source\repos\lab2\lab2\ListSequence.hpp(96): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+C:\Users\Ivan\source\repos\lab2\lab2\ListSequence.hpp(78): warning C4018: <: несоответствие типов со знаком и без знака
+  C:\Users\Ivan\source\repos\lab2\lab2\ListSequence.hpp(76): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+C:\Users\Ivan\source\repos\lab2\lab2\LinkedList.hpp(142): warning C4018: <: несоответствие типов со знаком и без знака
+  C:\Users\Ivan\source\repos\lab2\lab2\LinkedList.hpp(131): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  C:\Users\Ivan\source\repos\lab2\lab2\ListSequence.hpp(71): note: выполняется компиляция ссылки на экземпляр шаблон функции "void LinkedList<T>::InsertAt(T,const int)"
+          with
+          [
+              T=BinaryTree<int>::TreeNode<int> *
+          ]
+  C:\Users\Ivan\source\repos\lab2\lab2\ListSequence.hpp(172): note: выполняется компиляция ссылки на экземпляр шаблон класс "LinkedList<T>"
+          with
+          [
+              T=BinaryTree<int>::TreeNode<int> *
+          ]
+  C:\Users\Ivan\source\repos\lab2\lab2\ListSequence.hpp(169): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+C:\Users\Ivan\source\repos\lab2\lab2\BinaryTreeNode.hpp(466): warning C4715: BinaryTree<int>::ToPeek: значение возвращается не при всех путях выполнения
+C:\Users\Ivan\source\repos\lab2\lab2\LinkedList.hpp(95): warning C4715: LinkedList<BinaryTree<int>::TreeNode<int> *>::Get: значение возвращается не при всех путях выполнения
+  lab2.vcxproj -> C:\Users\Ivan\source\repos\lab2\Debug\lab2.exe
